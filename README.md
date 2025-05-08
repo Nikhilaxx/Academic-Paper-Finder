@@ -1,5 +1,7 @@
 # 🧠 Intelligent Research Paper Search Engine
 
+[![Live](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=render&logoColor=white)](https://academic-paper-finder-2.onrender.com)
+
 This project is a **Flask-based web application** that enables intelligent search of research papers using the [arXiv API](https://arxiv.org/help/api). It preprocesses search queries and paper summaries, ranks results using **TF-IDF** and **cosine similarity**, and displays the most relevant papers to the user.
 
 ---
@@ -71,12 +73,6 @@ This project is a **Flask-based web application** that enables intelligent searc
 * **Query**: `"transformer models in NLP"`
 * **Top Result**: Paper titled *"Attention Is All You Need"* with summary, authors, and arXiv link.
 
----
-
-
-## 📘 License
-
-This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ---
 
