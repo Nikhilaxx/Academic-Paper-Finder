@@ -75,6 +75,11 @@ This project is a **Flask-based web application** that enables intelligent searc
 
 
 ---
+## Live link of Deployed version:
+```bash
+https://academic-paper-finder-2.onrender.com
+```
+---
 
 ## 🤝 Acknowledgements
 
